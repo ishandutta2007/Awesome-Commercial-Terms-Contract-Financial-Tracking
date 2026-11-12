@@ -1,6 +1,6 @@
 # Awesome-Commercial-Terms-Contract-Financial-Tracking
 
-# Top Commercial Terms & Contract Financial Tracking Ecosystem
+## Top Commercial Terms & Contract Financial Tracking Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Contract Revenue Leakage Prevention, Pricing Enforcement & Financial Obligation Tracking*  
